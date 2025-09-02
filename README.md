@@ -11,7 +11,7 @@ Each assignment is directly stored as a `.txt` file in the root folder.
 
 ```
 
-📂 SPPU-SE-CGL
+📂 SPPU-SE-CG
 ├── Assignment 2.txt   → DDA & Bresenham Line Drawing (simple, dotted, dashed, solid)
 ├── Assignment 3.txt   → Bresenham Circle Drawing
 ├── Assignment 4.txt   → Polygon Filling (Flood Fill, Boundary Fill)
